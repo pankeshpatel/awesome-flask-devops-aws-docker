@@ -7,7 +7,7 @@ link of Udemy course: https://www.udemy.com/course/python-rest-apis-with-flask-d
 
 Credit : El Farouk Yasser, Tim Buchalka's Learn Programming Academy
 
-## 03-Template-Basics
+### 03-Template-Basics
 
 Flask automatically look for HTML templates in the  `Template` directory.   
 
