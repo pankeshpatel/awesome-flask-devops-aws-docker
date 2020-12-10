@@ -21,4 +21,3 @@ We want  a way to be able to use Python code in our application,
 changing and updating variables and logic and then send that information to the template. 
 
 We can use the Jinja template engine to do this. Jinja templating lets us directly insert variable from our python code to the HTML file.
-
