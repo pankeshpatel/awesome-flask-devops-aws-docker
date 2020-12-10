@@ -7,13 +7,16 @@ def index():
     return render_template('06-index.html')
 
 # This page will have the sign up form
+# The function name "signup_form" is used in url_for("fsignup_form")
 @app.route('/signup_form')
 def signup_form():
     return render_template('06-Sign-up.html')
 
 # This page will be the page after the form
+# The function name "thank_you" is used in url_for("thankyou")
+
 @app.route('/thankyou')
-def thank_you():
+def thank_you(): 
     first = request.args.get('first')
     last = request.args.get('last')
     return render_template('06-thankyou.html',first=first,last=last)
