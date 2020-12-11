@@ -52,4 +52,5 @@ Video: https://www.youtube.com/watch?v=GxT0zgZSHE8&list=PLF2JzgCW6-YY_TZCmBrbOpg
 #### project-database-get-put-post-delete
 
 This is a simple database (sqlalchemy)  project with CRUD operation.
-Credit, Crash Course, Video: https://www.youtube.com/watch?v=3mwFC4SHY-Y
+
+Credit - Crash Course, Video: https://www.youtube.com/watch?v=3mwFC4SHY-Y
