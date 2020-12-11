@@ -62,3 +62,11 @@ This is a TODO app with CRUD operations
 Credit - Crash Course: https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1226s
 
 Git Repo - https://github.com/jakerieger/FlaskIntroduction
+
+#### Tutorials Flask - Python Flask Tutorial: Full-Featured Web App
+
+Youtube:
+https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=1
+
+Git Repo
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
