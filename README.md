@@ -49,8 +49,14 @@ Blog: https://pythonise.com/series/learning-flask/serving-static-files-with-flas
 
 Video: https://www.youtube.com/watch?v=GxT0zgZSHE8&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=4
 
-#### project-database-get-put-post-delete
+# project1--database-CRUD
 
-This is a simple database (sqlalchemy)  project with CRUD operation.
+This is a simple database (sqlalchemy) project with CRUD operation.
 
 Credit - Crash Course, Video: https://www.youtube.com/watch?v=3mwFC4SHY-Y
+
+# project2-todo-db-CRUS
+
+This is a TODO app with CRUD operations
+Credit - Crash Course: https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1226s
+Git Repo - https://github.com/jakerieger/FlaskIntroduction
