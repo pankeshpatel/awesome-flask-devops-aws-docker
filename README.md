@@ -39,3 +39,12 @@ Credit:
 Blog: https://www.youtube.com/watch?v=QrK50lIwgbk&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=3
 
 Video:  https://pythonise.com/series/learning-flask/rendering-html-files-with-flask
+
+
+#### Serving static files
+
+Credit:
+
+Blog: https://pythonise.com/series/learning-flask/serving-static-files-with-flask
+
+Video: https://www.youtube.com/watch?v=GxT0zgZSHE8&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=4
