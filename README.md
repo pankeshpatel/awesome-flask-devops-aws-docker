@@ -29,4 +29,13 @@ This folder describes a structure to follow
 Credit:
 
 Blog: https://pythonise.com/series/learning-flask/flask-application-structure
+
 Video: https://www.youtube.com/watch?v=-BC3V1CUKpU&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=2
+
+# Serving HTML files
+
+Credit:
+
+Blog: https://www.youtube.com/watch?v=QrK50lIwgbk&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=3
+
+Video:  https://pythonise.com/series/learning-flask/rendering-html-files-with-flask
