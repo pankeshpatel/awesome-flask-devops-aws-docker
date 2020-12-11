@@ -48,3 +48,8 @@ Credit:
 Blog: https://pythonise.com/series/learning-flask/serving-static-files-with-flask
 
 Video: https://www.youtube.com/watch?v=GxT0zgZSHE8&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=4
+
+#### project-database-get-put-post-delete
+
+This is a simple database (sqlalchemy)  project with CRUD operation.
+Credit, Crash Course, Video: https://www.youtube.com/watch?v=3mwFC4SHY-Y
