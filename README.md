@@ -21,3 +21,12 @@ We want  a way to be able to use Python code in our application,
 changing and updating variables and logic and then send that information to the template. 
 
 We can use the Jinja template engine to do this. Jinja templating lets us directly insert variable from our python code to the HTML file.
+
+### flask-structure
+
+This folder describes a structure to follow
+
+Credit:
+
+Blog: https://pythonise.com/series/learning-flask/flask-application-structure
+Video: https://www.youtube.com/watch?v=-BC3V1CUKpU&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=2

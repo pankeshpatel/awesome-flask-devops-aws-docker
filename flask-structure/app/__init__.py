@@ -10,3 +10,4 @@ app = Flask(__name__)
 # Using this method, we can import multiple
 # python files into our Flask Application
 from app import views
+from app import admin_views
