@@ -7,7 +7,7 @@ link of Udemy course: https://www.udemy.com/course/python-rest-apis-with-flask-d
 
 Credit : El Farouk Yasser, Tim Buchalka's Learn Programming Academy
 
-### 03-Template-Basics
+#### 03-Template-Basics
 
 Flask automatically look for HTML templates in the  `Template` directory.   
 
@@ -22,7 +22,7 @@ changing and updating variables and logic and then send that information to the 
 
 We can use the Jinja template engine to do this. Jinja templating lets us directly insert variable from our python code to the HTML file.
 
-### flask-structure
+#### flask-structure
 
 This folder describes a structure to follow
 
@@ -32,7 +32,7 @@ Blog: https://pythonise.com/series/learning-flask/flask-application-structure
 
 Video: https://www.youtube.com/watch?v=-BC3V1CUKpU&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=2
 
-# Serving HTML files
+#### Serving HTML files
 
 Credit:
 
