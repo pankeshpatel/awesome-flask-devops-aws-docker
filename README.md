@@ -28,26 +28,23 @@ This folder describes a structure to follow
 
 Credit:
 
-Blog: https://pythonise.com/series/learning-flask/flask-application-structure
-
-Video: https://www.youtube.com/watch?v=-BC3V1CUKpU&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=2
+1. https://tinyurl.com/y52rauth
+2. https://tinyurl.com/y2mo6wx2
 
 #### Serving HTML files
 
 Credit:
 
-Blog: https://www.youtube.com/watch?v=QrK50lIwgbk&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=3
-
-Video:  https://pythonise.com/series/learning-flask/rendering-html-files-with-flask
+1. https://tinyurl.com/y3o2ocpu
+2. https://tinyurl.com/y5wy34pz
 
 
 #### Serving static files
 
 Credit:
 
-Blog: https://pythonise.com/series/learning-flask/serving-static-files-with-flask
-
-Video: https://www.youtube.com/watch?v=GxT0zgZSHE8&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&index=4
+1. https://tinyurl.com/y3dcv9pr
+2. https://tinyurl.com/y4efkupc
 
 #### project1--database-CRUD
 
@@ -59,23 +56,18 @@ Credit - Crash Course, Video: https://www.youtube.com/watch?v=3mwFC4SHY-Y
 
 This is a TODO app with CRUD operations
 
-Credit - Crash Course: https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1226s
-
-Git Repo - https://github.com/jakerieger/FlaskIntroduction
+1. https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1226s
+2. https://github.com/jakerieger/FlaskIntroduction
 
 #### Tutorials Flask - Python Flask Tutorial: Full-Featured Web App
 
-Youtube:
-https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=1
-
-Git Repo
-https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
+1. https://tinyurl.com/y2jwj6rf
+2. https://tinyurl.com/y5wlchzs
 
 #### Python Flask From Scratch by Traversy Media
 
-https://www.youtube.com/c/TraversyMedia/search?query=Flask%20from%20Scratch
-
-Github: https://github.com/pankeshpatel/myflaskapp
+1. https://tinyurl.com/y26p7pnx
+2. https://github.com/pankeshpatel/myflaskapp
 
 - Python Flask From Scratch - [Part 1] - Getting Started
   
@@ -96,37 +88,35 @@ Github: https://github.com/bradtraversy/python_feedback_app
 
 ##### Building Websites With Flask - Python and Flask by Codemy.com
 
-
-Youtube: https://www.youtube.com/watch?v=2e4STDACVA8&list=PLCC34OHNcOtqJBOLjXTd5xC0e-VD3siPn
+1. https://tinyurl.com/y64gu2m8 
 
 #### CS50 Tracks 2019 - Web - Flask
 
-https://www.youtube.com/watch?v=GhB6Q7KC-SM
+1. https://www.youtube.com/watch?v=GhB6Q7KC-SM
 
-- Python and Flask - CS50 Beyond 2019
-
+2. Python and Flask - CS50 Beyond 2019
 https://www.youtube.com/watch?v=pP23CtOI-1U
 
 #### Python Flask Tutorial full
 
-https://www.youtube.com/watch?v=wIy0Gyz2Jlo
-
-https://github.com/itsron717/pushups-logger
+1. https://www.youtube.com/watch?v=wIy0Gyz2Jlo
+2. https://github.com/itsron717/pushups-logger
 
 #### Creating a Weather App in Flask Using Python Requests by Pretty Printed
 
-https://www.youtube.com/watch?v=lWA0GgUN8kg
-
-https://github.com/PrettyPrinted/weather_app_flask
+1. https://www.youtube.com/watch?v=lWA0GgUN8kg
+2. https://github.com/PrettyPrinted/weather_app_flask
 
 - Building a Food Tracker App in Flask
 
-https://www.youtube.com/watch?v=0ROCLcU42Jc
-
-https://github.com/PrettyPrinted/youtube_video_code/tree/master/2020/07/13/Building%20a%20Food%20Tracker%20App%20in%20Flask
-
+1. https://www.youtube.com/watch?v=0ROCLcU42Jc
+2. https://tinyurl.com/y43q9e6q 
 
 
+#### Grocery Store Application by Dhaval Patel (CodeBasics)
+
+1. https://github.com/pankeshpatel/python_projects_grocery_webapp
+2. https://tinyurl.com/y66tr7mn
 
 
 
