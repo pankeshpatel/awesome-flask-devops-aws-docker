@@ -86,3 +86,49 @@ Github: https://github.com/pankeshpatel/myflaskapp
 - Python Flask From Scratch [Part 4] - Dashboard & Articles
 
 - Python Flask From Scratch [Part 5] - Edit & Delete Articles
+
+#### Build & Deploy A Python Web App | Flask, Postgres & Heroku
+
+Youtube : https://www.youtube.com/watch?v=w25ea_I89iM
+
+Github: https://github.com/bradtraversy/python_feedback_app
+
+
+##### Building Websites With Flask - Python and Flask by Codemy.com
+
+
+Youtube: https://www.youtube.com/watch?v=2e4STDACVA8&list=PLCC34OHNcOtqJBOLjXTd5xC0e-VD3siPn
+
+#### CS50 Tracks 2019 - Web - Flask
+
+https://www.youtube.com/watch?v=GhB6Q7KC-SM
+
+- Python and Flask - CS50 Beyond 2019
+
+https://www.youtube.com/watch?v=pP23CtOI-1U
+
+#### Python Flask Tutorial full
+
+https://www.youtube.com/watch?v=wIy0Gyz2Jlo
+
+https://github.com/itsron717/pushups-logger
+
+#### Creating a Weather App in Flask Using Python Requests by Pretty Printed
+
+https://www.youtube.com/watch?v=lWA0GgUN8kg
+
+https://github.com/PrettyPrinted/weather_app_flask
+
+- Building a Food Tracker App in Flask
+
+https://www.youtube.com/watch?v=0ROCLcU42Jc
+
+https://github.com/PrettyPrinted/youtube_video_code/tree/master/2020/07/13/Building%20a%20Food%20Tracker%20App%20in%20Flask
+
+
+
+
+
+
+
+
