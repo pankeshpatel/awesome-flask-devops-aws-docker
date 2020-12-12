@@ -70,3 +70,19 @@ https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUx
 
 Git Repo
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
+
+#### Python Flask From Scratch by Traversy Media
+
+https://www.youtube.com/c/TraversyMedia/search?query=Flask%20from%20Scratch
+
+Github: https://github.com/pankeshpatel/myflaskapp
+
+- Python Flask From Scratch - [Part 1] - Getting Started
+  
+- Python Flask From Scratch [Part 2] - User Registration
+
+- Python Flask From Scratch [Part 3] - Login & Access Control
+
+- Python Flask From Scratch [Part 4] - Dashboard & Articles
+
+- Python Flask From Scratch [Part 5] - Edit & Delete Articles
